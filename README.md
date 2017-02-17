@@ -1,5 +1,5 @@
 # gimp2.8-config
-A customized Gimp 2.8 config folder to make it look more like Adobe Photoshop
+A customized Gimp 2.8 config folder to make it look more like Adobe Photoshop. It also includes Adobe Photoshop's classic keybinding and shortcuts.
 
 To use this configuration follow these steps:
 
